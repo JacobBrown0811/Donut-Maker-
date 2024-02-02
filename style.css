@@ -10,7 +10,10 @@ body {
     background-color: #fff3e0; 
     color: #5d4037; 
     text-align: center;
-    background-image: url(/images/ef356a97-9765-4a4d-bdd6-dbb80b718daa.webp)
+    /* background-image: url(/images/ef356a97-9765-4a4d-bdd6-dbb80b718daa.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+     */
 }
 
 img {
